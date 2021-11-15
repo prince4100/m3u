@@ -121,3 +121,4 @@ http://124.47.34.12:8080/live/1000250.stream/playlist.m3u8
 http://124.47.34.12:8080/live/1000251.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="124“, 124 - 255
 http://124.47.34.12:8080/live/1000255.stream/playlist.m3u8
+frame width="100%" height="610" frameborder="0" allowfullscreen="" src="https://www.yalla-shoot.com/mobile/frame-24516.html" scrolling="no"></iframe
